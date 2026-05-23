@@ -1,65 +1,81 @@
-# Talocode
+﻿# Talocode
 
-Talocode is a local-first control plane for coding agents.
+Useful open-source AI tools for builders.
 
-Run agents on your machine.  
-Control them from desktop or phone.  
-Manage sessions, providers, logs, worktrees, and approvals from one cockpit.
+Talocode builds practical AI tools for creators, founders, engineers, and businesses.
+
+We care about tools that help people learn faster, build faster, automate real work, and ship useful products.
 
 ## What we are building
 
-Talocode gives developers an always-on workspace for agentic coding.
+### Codra
 
-It helps you:
+Codra is an open-source agentic coding app.
 
-- Run coding agents locally.
-- Connect tools like Codex, Claude Code, OpenCode, Gemini CLI, Ollama, and OpenRouter.
-- Manage projects, sessions, logs, and worktrees.
-- Control agents from your browser or phone.
-- Keep agent actions visible, reviewable, and safer.
+Pick a model.  
+Open a project.  
+Prompt Codra.  
+Review the plan.  
+Approve changes.  
+Ship.
 
-## Why Talocode exists
+Repository:
+https://github.com/talocode/codra
 
-Coding agents are becoming powerful, but the workflow around them is still messy.
+## Mission
 
-Different tools.  
-Different sessions.  
-Different providers.  
-Different logs.  
-Different project contexts.
+To build useful open-source AI tools that help builders turn ideas into working products.
 
-Talocode brings that into one local-first control layer.
+## Principles
 
-## Core principles
+- Open source first.
+- Simple before complex.
+- Useful before impressive.
+- Local-first where it matters.
+- Human approval before risky actions.
+- Built for real builders, not demos.
 
-- Local-first by default.
-- Agent-agnostic.
-- Windows-first, but cross-platform-minded.
-- Phone-controllable.
-- Open-source from day one.
-- Built for real developer workflows, not demos.
+## Who Talocode is for
+
+Talocode is for:
+
+- creators building with AI
+- founders shipping MVPs
+- engineers working with coding agents
+- businesses automating workflows
+- learners turning knowledge into real projects
 
 ## Current focus
 
-We are building the first stable version of Talocode from the original AgentDeck prototype.
+Our current focus is Codra.
 
-Current work includes:
+Codra is being built as a simple agentic coding app for people who want to use AI to work on real projects.
 
-- Local daemon and API.
-- Desktop dashboard.
-- Phone control.
-- Git worktree sessions.
-- Provider routing.
-- Session logs.
-- Agent discovery.
-- Safety and approvals.
+Near-term roadmap:
 
-## Status
+- model provider selection
+- local and cloud model support
+- project folder workflow
+- task planning
+- approval-based file changes
+- command execution
+- logs and final reports
+- future TeraAI integration
 
-Early open-source development.
+## Founder
 
-We are shipping in public and documenting the journey as we build.
+Founded by Abdulmuiz Adeyemo.
+
+X:
+https://x.com/AbdMuizAdeyemo
+
+Talocode:
+https://x.com/talocode
+
+TeraAI:
+https://x.com/Teraaiguide
 
 ## Links
 
-- Email: talocodehq@gmail.com
+- Codra: https://github.com/talocode/codra
+- Talocode on X: https://x.com/talocode

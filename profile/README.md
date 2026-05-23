@@ -74,6 +74,7 @@ Talocode is for:
 
 Our current focus is building and improving:
 
+- TeraAI for learning, research, and building with AI
 - Codra for agentic coding workflows
 - SignalLane for X growth and better replies
 - ClientPad for service business CRM infrastructure
@@ -114,6 +115,10 @@ https://x.com/Teraaiguide
 
 - Codra: https://github.com/talocode/codra
 - SignalLane: https://github.com/talocode/signallane
+- ClientPad: https://github.com/clientpadhq/clientpad
+- Talocode Legacy: https://github.com/talocode/talocode-legacy
+- Talocode on X: https://x.com/talocode
+e/signallane
 - ClientPad: https://github.com/clientpadhq/clientpad
 - Talocode Legacy: https://github.com/talocode/talocode-legacy
 - Talocode on X: https://x.com/talocode

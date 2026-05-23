@@ -4,13 +4,13 @@ Useful open-source AI tools for builders.
 
 Talocode builds practical AI tools for creators, founders, engineers, and businesses.
 
-We care about tools that help people learn faster, build faster, automate real work, and ship useful products.
+We care about tools that help people learn faster, build faster, find better opportunities, automate real work, and ship useful products.
 
 ## What we are building
 
 ### Codra
 
-Codra is an open-source agentic coding app.
+Codra is an open-source agentic coding app for TeraAI users.
 
 Pick a model.  
 Open a project.  
@@ -19,21 +19,43 @@ Review the plan.
 Approve changes.  
 Ship.
 
-Repository:
+Repository:  
 https://github.com/talocode/codra
+
+### SignalLane
+
+SignalLane helps builders grow on X without sounding like AI.
+
+Find better conversations.  
+Write sharper replies.  
+Show up where attention already exists.  
+Grow with signal instead of noise.
+
+Repository:  
+https://github.com/talocode/signallane
+
+### ClientPad
+
+ClientPad is open-source CRM infrastructure for service businesses.
+
+It helps service teams manage clients, conversations, follow-ups, and customer workflows with simple software infrastructure.
+
+Repository:  
+https://github.com/clientpadhq/clientpad
 
 ## Mission
 
-To build useful open-source AI tools that help builders turn ideas into working products.
+To build useful open-source AI tools that help builders turn ideas, conversations, and workflows into real outcomes.
 
 ## Principles
 
 - Open source first.
 - Simple before complex.
 - Useful before impressive.
+- Human before robotic.
 - Local-first where it matters.
-- Human approval before risky actions.
 - Built for real builders, not demos.
+- Tools should help people create, ship, sell, learn, and operate better.
 
 ## Who Talocode is for
 
@@ -43,39 +65,44 @@ Talocode is for:
 - founders shipping MVPs
 - engineers working with coding agents
 - businesses automating workflows
+- builders growing through better conversations
 - learners turning knowledge into real projects
 
 ## Current focus
 
-Our current focus is Codra.
+Our current focus is building and improving:
 
-Codra is being built as a simple agentic coding app for people who want to use AI to work on real projects.
+- Codra for agentic coding workflows
+- SignalLane for X growth and better replies
+- ClientPad for service business CRM infrastructure
 
 Near-term roadmap:
 
-- model provider selection
+- model provider selection in Codra
 - local and cloud model support
 - project folder workflow
-- task planning
 - approval-based file changes
-- command execution
-- logs and final reports
+- SignalLane conversation discovery
+- SignalLane reply drafting workflow
+- ClientPad CRM primitives
 - future TeraAI integration
 
 ## Founder
 
 Founded by Abdulmuiz Adeyemo.
 
-X:
+X:  
 https://x.com/AbdMuizAdeyemo
 
-Talocode:
+Talocode:  
 https://x.com/talocode
 
-TeraAI:
+TeraAI:  
 https://x.com/Teraaiguide
 
 ## Links
 
 - Codra: https://github.com/talocode/codra
+- SignalLane: https://github.com/talocode/signallane
+- ClientPad: https://github.com/clientpadhq/clientpad
 - Talocode on X: https://x.com/talocode

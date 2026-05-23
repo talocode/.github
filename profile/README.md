@@ -1,10 +1,10 @@
-﻿# Talocode
+# Talocode
 
 Useful open-source AI tools for builders.
 
-Talocode builds practical AI tools for creators, founders, engineers, and businesses.
+Talocode builds practical AI tools for creators, founders, engineers, businesses, learners, and operators.
 
-We care about tools that help people learn faster, build faster, find better opportunities, automate real work, and ship useful products.
+We care about tools that help people learn faster, build faster, find better conversations, automate real work, and ship useful products.
 
 ## What we are building
 
@@ -45,7 +45,7 @@ https://github.com/clientpadhq/clientpad
 
 ## Mission
 
-To build useful open-source AI tools that help builders turn ideas, conversations, and workflows into real outcomes.
+To build useful open-source AI tools that help builders turn ideas, conversations, knowledge, and workflows into real outcomes.
 
 ## Principles
 
@@ -53,8 +53,9 @@ To build useful open-source AI tools that help builders turn ideas, conversation
 - Simple before complex.
 - Useful before impressive.
 - Human before robotic.
+- Builder-focused by default.
 - Local-first where it matters.
-- Built for real builders, not demos.
+- Built for real use, not demos.
 - Tools should help people create, ship, sell, learn, and operate better.
 
 ## Who Talocode is for
@@ -67,6 +68,7 @@ Talocode is for:
 - businesses automating workflows
 - builders growing through better conversations
 - learners turning knowledge into real projects
+- operators managing clients, systems, and processes
 
 ## Current focus
 
@@ -87,6 +89,14 @@ Near-term roadmap:
 - ClientPad CRM primitives
 - future TeraAI integration
 
+## Legacy
+
+Some early Talocode experiments have been moved to:
+
+https://github.com/talocode/talocode-legacy
+
+That repository is kept for historical reference.
+
 ## Founder
 
 Founded by Abdulmuiz Adeyemo.
@@ -105,4 +115,5 @@ https://x.com/Teraaiguide
 - Codra: https://github.com/talocode/codra
 - SignalLane: https://github.com/talocode/signallane
 - ClientPad: https://github.com/clientpadhq/clientpad
+- Talocode Legacy: https://github.com/talocode/talocode-legacy
 - Talocode on X: https://x.com/talocode

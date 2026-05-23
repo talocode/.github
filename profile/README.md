@@ -8,6 +8,15 @@ We care about tools that help people learn faster, build faster, find better con
 
 ## What we are building
 
+### TeraAI
+
+TeraAI is an AI learning and building companion.
+
+It helps people learn deeply, research better, understand complex topics, and turn knowledge into real projects.
+
+Repository:  
+https://github.com/talocode/tera
+
 ### Codra
 
 Codra is an open-source agentic coding app for TeraAI users.
@@ -113,12 +122,9 @@ https://x.com/Teraaiguide
 
 ## Links
 
+- TeraAI: https://github.com/talocode/tera
 - Codra: https://github.com/talocode/codra
 - SignalLane: https://github.com/talocode/signallane
-- ClientPad: https://github.com/clientpadhq/clientpad
-- Talocode Legacy: https://github.com/talocode/talocode-legacy
-- Talocode on X: https://x.com/talocode
-e/signallane
 - ClientPad: https://github.com/clientpadhq/clientpad
 - Talocode Legacy: https://github.com/talocode/talocode-legacy
 - Talocode on X: https://x.com/talocode

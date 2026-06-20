@@ -107,6 +107,14 @@ https://github.com/talocode/talocode-legacy
 
 That repository is kept for historical reference.
 
+## Support Talocode
+
+Talocode builds open-source workflow layers for builders: Codra, Tera, WorkLane, Talocode Skills, and more.
+
+If our tools help you build, learn, automate, or ship faster, you can support the work through GitHub Sponsors:
+
+[![Sponsor Abdulmuiz44](https://img.shields.io/badge/Sponsor-Abdulmuiz44-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Abdulmuiz44)
+
 ## Founder
 
 Founded by Abdulmuiz Adeyemo.

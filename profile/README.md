@@ -4,7 +4,7 @@ Open-source infrastructure for AI-native work.
 
 Talocode builds the infrastructure layer that makes AI useful for real work — coding agents, learning companions, web extraction, workflow automation, billing, routing, and cloud APIs.
 
-Everything we build is open-source and self-hostable. The same infrastructure powers [Talocode Cloud](https://api.talocode.site), where teams pay for hosted capacity, not locked-in software.
+Everything we build is open-source and self-hostable. The same infrastructure powers [Talocode Cloud](https://docs.talocode.site), where teams pay for hosted capacity, not locked-in software.
 
 ## Products
 
